@@ -21,7 +21,7 @@ VALUE = "<?php echo $cust_email;?>"
 
 </FORM>
 </BODY>
-</HEAD>
+
 </HTML>
 
 
