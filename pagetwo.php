@@ -16,7 +16,7 @@ Phone: <INPUT TYPE = "text" SIZE="20"name="cust_phone"><br/>
 <INPUT TYPE="hidden"name name = "cust_name"
 VALUE =" <?php echo $cust_name;?>">
 <INPUT TYPE ="Hidden" name="cust_email"
-VALUE = "<?php echo $cust_email;>">
+VALUE = "<?php echo $cust_email;?>"
 <INPUT TYPE="submit" name="submit2"value="Proceed">
 
 </FORM>
